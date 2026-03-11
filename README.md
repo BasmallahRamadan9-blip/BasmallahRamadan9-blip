@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Basmallah 👋
 
-<!--
-**BasmallahRamadan9-blip/BasmallahRamadan9-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Excel Specialist | Sales Data Analysis
 
-Here are some ideas to get you started:
+I’m a data enthusiast with a background in **Commerce (English Section)** and practical experience working with **sales and distributor data in the pharmaceutical industry**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning raw data into meaningful insights that help businesses understand their **sales performance, regional distribution, and operational trends**.
+
+---
+
+## 📊 What I Do
+
+* Analyze **sales data from multiple distributors**
+* Clean and structure messy datasets
+* Build **Excel reports for business decisions**
+* Map **sales regions to representatives**
+* Standardize data from different sources
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Data Analysis**
+
+* Excel
+* SQL
+* Python (Learning)
+* Power BI (Learning)
+* Tableau(Learning)
+
+**Data Tasks**
+
+* Handling datasets
+* Sales performance analysis
+* Data cleaning and preparation
+
+---
+
+## 📚 Currently Learning
+
+* Advanced **Excel for Data Analysis**
+* **Python** for data manipulation
+* Building professional **data analysis projects**
+
+---
+
+## 🤝 Connect With Me
+Gmail ( basmallahramadan9@gmail.com )
+
+LINKEDIN(https://www.linkedin.com/in/basmallah-ramadan-b5812b217?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+Open to collaboration, freelance projects, and data analysis opportunities.
